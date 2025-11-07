@@ -1,33 +1,35 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="怒れセリヌンティウス"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「フルカウントのメロス」[l][r]
 
 メロスは激怒した。[l][r]
 
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+必ず、かの邪智暴虐の審判を除かねばならぬと決意した。[l][r]
 
-(中略)[l][r]
+先ほど投手が投じた一球、これは明らかにボールであった。[l][r]
 
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
+どうやったらストライクと判定できるのであろう。[l][r]
+
+ああ、何もかも、ばかばかしい。どうとも、勝手にするがよい。やんぬる哉。[l][r]
 メロスは...[l][r]
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
+[link target=*tag_sleep] →激怒する [endlink][r]
+[link target=*tag_run] →グッと堪える [endlink][r]
 [s]
 
 *tag_sleep
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=baseball_batter_miokuri.png time=500]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+メロスはひどく赤面し、審判に向かった。[l][r]
+審判は毅然とした態度で高らかに宣言する、退場。[r]
 
 【 BAD END 】[l][cm]
 
@@ -38,8 +40,8 @@
 [bg storage=run.jpg time=500]
 
 [cm]
-メロスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
+メロスは怒りを抑え、ベンチへと帰った。[l][r]
+陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとしていた。これもまた、野球である。[r]
 
 【 GOOD END 】[l][cm]
 
