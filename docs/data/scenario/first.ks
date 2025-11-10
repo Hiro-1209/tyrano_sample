@@ -1,6 +1,6 @@
 *start
 
-[title name="怒れセリヌンティウス"]
+[title name="今日は釣り日和"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
